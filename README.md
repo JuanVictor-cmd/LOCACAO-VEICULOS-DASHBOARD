@@ -16,6 +16,8 @@ O relatório é composto por **4 páginas**:
 ### 🏠 Capa
 Página de apresentação com identidade visual do projeto e botão de navegação para o dashboard principal.
 
+![Capa do Dashboard](01_capa_dashboard.png)
+
 ### 📦 Locação de Veículo
 Visão operacional das locações, contendo:
 * **Faturamento por Ano** — gráfico de colunas com drill-down por trimestre, mês e dia
@@ -26,6 +28,8 @@ Visão operacional das locações, contendo:
 * **Filtro de busca por placa** (visual customizado)
 * **Slicers:** Situação Cadastral, Ano, Modelo, Dia da Semana
 
+![Dashboard de Locação de Veículos](02_locacao_veiculos.png)
+
 ### 👤 Cliente
 Análise do perfil e comportamento dos clientes:
 * **Cards de KPIs:** Total de Cidades, Total de Clientes, Faturamento Total, Ticket Médio (salário)
@@ -35,11 +39,15 @@ Análise do perfil e comportamento dos clientes:
 * **Tabela LEFT JOIN** — todos os clientes, incluindo os sem locação (ID, Placa, Marca, Dia, Modelo, Status)
 * **Slicers:** ID do Cliente, Marca, Data
 
+![Dashboard de Clientes](03_cliente.png)
+
 ### 📈 Previsão
 Projeção de receita futura:
 * **Gráfico de Linha com Previsão** — série temporal de faturamento com forecast por ano/trimestre/mês
 * **Cards de KPIs:** Total de Clientes, Ticket Médio, Total de Vendas
 * **Slicers:** Situação Cadastral, Ano, Modelo, Dia da Semana
+
+![Previsão de Faturamento](04_previsao.png)
 
 ---
 
