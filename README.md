@@ -16,7 +16,7 @@ O relatório é composto por **4 páginas**:
 ### 🏠 Capa
 Página de apresentação com identidade visual do projeto e botão de navegação para o dashboard principal.
 
-
+![Capa do Dashboard](01_capa_dashboard.png)
 
 ### 📦 Locação de Veículo
 Visão operacional das locações, contendo:
